@@ -7,7 +7,6 @@ var i;
 var points = [];
 var NumTimesToSubdivide = 5;
 
-//onload함수로 시작함
 window.onload = function init() {
   // onload : 모든 코드가 로드 된 후 실행이 시작할 위치를 지정
 
